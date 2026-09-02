@@ -2,3 +2,4 @@ Login API smoke test cases
 Login API positive test cases 
 Registration test cases 
 Payment API test cases 
+SQL database checks 
