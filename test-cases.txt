@@ -1,2 +1,2 @@
-Login API test cases 
+Login API smoke test cases 
 Registration test cases 
