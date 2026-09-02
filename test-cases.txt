@@ -1,2 +1,2 @@
-Login API test cases 
+Login API positive test cases 
 Registration test cases 
